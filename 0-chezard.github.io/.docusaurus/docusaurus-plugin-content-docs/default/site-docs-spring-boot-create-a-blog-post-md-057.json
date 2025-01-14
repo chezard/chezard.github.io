@@ -1,0 +1,26 @@
+{
+  "id": "spring-boot/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/spring-boot/create-a-blog-post.md",
+  "sourceDirName": "spring-boot",
+  "slug": "/spring-boot/create-a-blog-post",
+  "permalink": "/docs/spring-boot/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/spring-boot/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/spring-boot/markdown-features"
+  }
+}

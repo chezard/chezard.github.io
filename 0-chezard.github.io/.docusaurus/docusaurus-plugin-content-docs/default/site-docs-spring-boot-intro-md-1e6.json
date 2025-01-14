@@ -1,0 +1,26 @@
+{
+  "id": "spring-boot/intro",
+  "title": "Intro",
+  "description": "",
+  "source": "@site/docs/spring-boot/intro.md",
+  "sourceDirName": "spring-boot",
+  "slug": "/spring-boot/intro",
+  "permalink": "/docs/spring-boot/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Spring Boot",
+    "permalink": "/docs/category/spring-boot"
+  },
+  "next": {
+    "title": "Elasticsearch",
+    "permalink": "/docs/category/elasticsearch"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "java/intro",
+  "title": "Intro",
+  "description": "",
+  "source": "@site/docs/java/intro.md",
+  "sourceDirName": "java",
+  "slug": "/java/intro",
+  "permalink": "/docs/java/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Java",
+    "permalink": "/docs/category/java"
+  },
+  "next": {
+    "title": "Spring Boot",
+    "permalink": "/docs/category/spring-boot"
+  }
+}

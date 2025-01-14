@@ -1,0 +1,26 @@
+{
+  "id": "java/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/java/translate-your-site.md",
+  "sourceDirName": "java",
+  "slug": "/java/translate-your-site",
+  "permalink": "/docs/java/translate-your-site",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/java/manage-docs-versions"
+  },
+  "next": {
+    "title": "Spring Boot",
+    "permalink": "/docs/category/spring-boot"
+  }
+}

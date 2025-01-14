@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "docker/intro",
+              "path": "/docs/docker/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "elasticsearch/intro",
+              "path": "/docs/elasticsearch/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "java/intro",
+              "path": "/docs/java/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "k8s/intro",
+              "path": "/docs/k8s/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "spring-boot/intro",
+              "path": "/docs/spring-boot/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/java",
+              "path": "/docs/category/java",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/spring-boot",
+              "path": "/docs/category/spring-boot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/elasticsearch",
+              "path": "/docs/category/elasticsearch",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/docker",
+              "path": "/docs/category/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/kubernetes",
+              "path": "/docs/category/kubernetes",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}
